@@ -1,15 +1,15 @@
 {
-    "name": "bariton3/php-pivotal-tracker-api",
+    "name": "mshtatskyi/php-pivotal-tracker-api",
     "type": "library",
     "description": "Pivotal Tracker API v5 client",
-    "homepage": "https://github.com/bariton3/php-pivotal-tracker-api",
+    "homepage": "https://github.com/mshtatskyi/php-pivotal-tracker-api",
     "keywords": ["pivotal tracker"],
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Oleksandr Tatarchuk",
-            "email": "bariton3@yandex.ru"
+            "name": "Maksym Shtatskiy",
+            "email": "stmaxvl@gmail.com"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
         "php-http/discovery": "^1.0",
         "php-http/client-common": "^1.3",
         "php-http/cache-plugin": "^1.2",
-        "php-http/multipart-stream-builder": "^1.0.0"
+        "php-http/multipart-stream-builder": "^1.2.0"
     },
     "require-dev": {
         "phpunit/phpunit": ">=4.1"
